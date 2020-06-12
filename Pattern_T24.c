@@ -34,3 +34,29 @@ int n,k;
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
+
+
+
+//OUTPUT
+20
+
+ABCDEFGHIJKLMNOPQRSTSRQPONMLKJIHGFEDCBA
+ABCDEFGHIJKLMNOPQRS SRQPONMLKJIHGFEDCBA
+ABCDEFGHIJKLMNOPQR   RQPONMLKJIHGFEDCBA
+ABCDEFGHIJKLMNOPQ     QPONMLKJIHGFEDCBA
+ABCDEFGHIJKLMNOP       PONMLKJIHGFEDCBA
+ABCDEFGHIJKLMNO         ONMLKJIHGFEDCBA
+ABCDEFGHIJKLMN           NMLKJIHGFEDCBA
+ABCDEFGHIJKLM             MLKJIHGFEDCBA
+ABCDEFGHIJKL               LKJIHGFEDCBA
+ABCDEFGHIJK                 KJIHGFEDCBA
+ABCDEFGHIJ                   JIHGFEDCBA
+ABCDEFGHI                     IHGFEDCBA
+ABCDEFGH                       HGFEDCBA
+ABCDEFG                         GFEDCBA
+ABCDEF                           FEDCBA
+ABCDE                             EDCBA
+ABCD                               DCBA
+ABC                                 CBA
+AB                                   BA
+A                                     A
